@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Albin Eriksson. I'm studying a fourth year of software and web development in high school. I also have interests in computer hardware and computer science.
 
 <!--
 **AlbinNosskire/AlbinNosskire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
