@@ -1,17 +1,30 @@
-### Hi there 👋
-My name is Albin Eriksson. I'm studying a fourth year of software and web development in high school. I also have interests in computer hardware and computer science.
+# Albin Eriksson 
+### [My Portfolio](https://albinnosskire.github.io/portfolio/ "Portfolio")
 
-<!--
-**AlbinNosskire/AlbinNosskire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbinNosskire&theme=vue)](https://github.com/AlbinNosskire)
 
-Here are some ideas to get you started:
+## Languages I know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  HTML
+-  CSS
+-  JavaScript
+-  Python3
+
+## IDE
+
+-  I  code in <img width="12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />Visual Studio CODE
+-  I use Windows
+
+## Education
+
+### High School
+- NTI Gymnasiet Uppsala 2018-2021
+
+### Further Education
+- High School Engineer 2021-Present
+
+## Connections
+
+- [My Linked In](https://www.linkedin.com/in/albin-eriksson-28707a223/)
+- [My Mail](mailto:albin.nosskire@gmail.com/)
